@@ -1,32 +1,32 @@
 {
-    "name": "Bharat Agsrwal",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
-    "intro": "Some introduction of yours and it can be as much as large",
+    "name": "KARAN",
+    "title": "OS operator, Developer, ",
+    "intro": "KARAN 1810991777 karan_roxx83",
     "skills": [{
-            "title": "Skill 1",
-            "rating": "90"
+            "title": "Skill C",
+            "rating": "70"
         },
         {
-            "title": "Skill 2",
-            "rating": "97"
+            "title": "Skill HTML",
+            "rating": "75"
         },
         {
-            "title": "Skill 3",
-            "rating": "85"
+            "title": "CSS",
+            "rating": "76"
         },{
-            "title": "Skill 4",
-            "rating": "80"
+            "title": "C++",
+            "rating": "56"
         },{
-            "title": "Skill 5",
-            "rating": "78"
+            "title": "Automo ",
+            "rating": "100"
         },{
             "title": "Skill 6",
             "rating": "90"
         }
     ],
     "contact": {
-        "location": "Chandigarh University",
-        "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "location": "Chitkara University",
+        "phone": "8708220601",
+        "email": "gargkaran83@gmail.com"
     }
 }
